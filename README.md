@@ -10,9 +10,9 @@ Four console-based Java applications built to demonstrate practical use of
 
 ## 👤 Author
 
-**Solomon Adeleke Olaniyan**
-- GitHub: [@bigdev14bit](https://github.com/bigdev14bit)
-- Email: devbig14@gmail.com
+**Ajulo Olugbemi Martins**
+- GitHub: [@MartG-09](https://github.com/MartG-09)
+- Email: ajulogbemi09@gmail.com
 
 ---
 
